@@ -1,30 +1,28 @@
-const apptitle = "II Sem SGPA Calculator";
+const apptitle = "I Sem SGPA Calculator";
 
 const subjects = [
-  "Database Management System",
-  "Object Oriented Programming Using Java",
-  "Software Engineering",
-  "Web Technologies",
-  "Professional Elective 1",
-  "Professional Elective 2",
-  "DBMS Laboratory",
-  "Java Programming Laboratory",
-  "SEMINAR"
+  "Mathematical Foundation for Computer Applications",
+  "Operating System Concepts",
+  "Data Structures with Algorithms",
+  "Computer Networks",
+  "Design and Analysis of Algorithms",
+  "Data Structures with Algorithms Laboratory",
+  "Computer Networks Laboratory",
+  "Research Methodology and IPR",
 ];
 
 const subject_code = [
-  "22MCA21",
-  "22MCA22",
-  "22MCA23",
-  "22MCA24",
-  "22MCA25X",
-  "22MCA26X",
-  "22MCAL27",
-  "22MCAL28",
-  "22MCA29",
+  "22MCA11",
+  "22MCA12",
+  "22MCA13",
+  "22MCA14",
+  "22MCA15",
+  "22MCAL16",
+  "22MCAL17",
+  "22RMI18",
 ];
 
-const credits = [3, 3, 4, 4, 3, 3, 2, 2, 2];
+const credits = [3, 4, 4, 3, 4, 2, 2, 2];
 
 const marks = [];
 
