@@ -1,30 +1,30 @@
-const apptitle = "III Sem SGPA Calculator";
+const apptitle = "II Sem SGPA Calculator";
 
 const subjects = [
-  "Data Analytics Using Python",
-  "Internet of Things",
-  "Professional Elective 3",
-  "Professional Elective 4",
-  "Project Work Phase 1",
-  "Data Analytics Lab with Mini-project",
-  "IoT Laboratory with Mini Project",
-  "Societal Project",
-  "Internship"
+  "Database Management System",
+  "Object Oriented Programming Using Java",
+  "Software Engineering",
+  "Web Technologies",
+  "Professional Elective 1",
+  "Professional Elective 2",
+  "DBMS Laboratory",
+  "Java Programming Laboratory",
+  "SEMINAR"
 ];
 
 const subject_code = [
-  "22MCA31",
-  "22MCA32",
-  "22MCA33X",
-  "22MCA34X",
-  "22MCAL35",
-  "22MCAL36",
-  "22MCAL37",
-  "22MCAL38",
-  "22MCA39",
+  "22MCA21",
+  "22MCA22",
+  "22MCA23",
+  "22MCA24",
+  "22MCA25X",
+  "22MCA26X",
+  "22MCAL27",
+  "22MCAL28",
+  "22MCA29",
 ];
 
-const credits = [3, 3, 3, 3, 2, 2, 2, 2, 6];
+const credits = [3, 3, 4, 4, 3, 3, 2, 2, 2];
 
 const marks = [];
 
